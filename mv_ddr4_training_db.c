@@ -251,7 +251,7 @@ static unsigned int rfc_table[] = {
 	160,	/* 2G */
 	260,	/* 4G */
 	350,	/* 8G */
-	0,	/* TODO: placeholder for 16-Mbit die capacity */
+	550,	/* 16-Gbit die capacity */
 	0,	/* TODO: placeholder for 32-Mbit die capacity*/
 	0,	/* TODO: placeholder for 12-Mbit die capacity */
 	0	/* TODO: placeholder for 24-Mbit die capacity */
