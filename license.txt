@@ -1,11 +1,11 @@
 MV-DDR License Summary
 ======================
 
-The MV-DDR contains source code from a number of open source projects
-along with code developed by Marvell.  This file gives a short overview of
-the various components and pointers to their exact license information.
+The MV-DDR contains source code developed by Marvell along with some
+portion from opensource. This file gives a short overview of the
+various components and pointers to their exact license information.
 In the event of a conflict, the license file for a specific file or
-project takes precedence over this file.  This files is a summary only.
+project takes precedence over this file. This is just a summary file.
 
 MV-DDR Components
 =================
